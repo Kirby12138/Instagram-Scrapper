@@ -24,7 +24,7 @@ driver.get("https://www.instagram.com/")
 
 
 email = 'NDDDCCC'
-password = 'Ndc12138*'
+password = ''
 
 
 # In[4]:
